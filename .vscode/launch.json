@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Spring Boot-RestClientApplication<restclient>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.vojislavk.restclient.RestClientApplication",
+            "projectName": "restclient",
+            "args": ""
+        }
+    ]
+}
